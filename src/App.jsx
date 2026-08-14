@@ -10,8 +10,6 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Principal />} />
-        <Route path="/portfolio/projeto1" element={<Projeto1 />} />
-        <Route path="/portfolio/projeto2" element={<Projeto2 />} />
       </Routes>
     </BrowserRouter>
   )
