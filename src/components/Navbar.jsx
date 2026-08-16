@@ -5,9 +5,9 @@ export default function Navbar() {
 
   return (
     <nav className="navbar">
-      <button type="button" className="nav-btn" onClick={() => scrollTo('home')}>Home</button>
-      <button type="button" className="nav-btn" onClick={() => scrollTo('sobre')}>Sobre</button>
-      <button type="button" className="nav-btn" onClick={() => scrollTo('portfolio')}>Portfólio</button>
+      <button className="nav-btn" onClick={() => scrollTo('home')}>Home</button>
+      <button className="nav-btn" onClick={() => scrollTo('sobre')}>Sobre</button>
+      <button className="nav-btn" onClick={() => scrollTo('portfolio')}>Portfólio</button>
     </nav>
   )
 }

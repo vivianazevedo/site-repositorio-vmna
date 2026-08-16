@@ -34,7 +34,7 @@ export default function Principal() {
 
             <div className="card">
             <h2 className="card-titulo">Coreto</h2>
-            <p className="card-descricao">Projeto desenvolvido em grupo na disciplina de Computação, Algoritmos e Dados no CIn-UFPE.</p>
+            <p className="card-descricao">Projeto desenvolvido em grupo na disciplina de Concepção de Artefatos Digitais no CIn-UFPE.</p>
             <a href="https://www.figma.com/make/r2Rht7AaffSdeHOJTTaKnK/Coreto?t=TUiuy2ph5qkrDXhI-20&fullscreen=1" target="_blank" rel="noopener noreferrer" className="card-link">Ver protótipo →</a>
             </div>
 
