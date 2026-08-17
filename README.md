@@ -4,6 +4,7 @@ Portfólio pessoal de Vivian Maria do Nascimento Azevedo, estudante de Sistemas 
 
 
 Estrutura do projeto
+'''
 portvivian/
 ├── public/
 ├── src/
@@ -20,7 +21,7 @@ portvivian/
 ├── index.html
 ├── vite.config.js
 └── package.json
-
+'''
 
 Tecnologias
 React
